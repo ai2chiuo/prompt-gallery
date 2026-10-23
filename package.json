@@ -1,0 +1,10 @@
+{
+ "name": "prompt-site",
+ "private": true,
+ "type": "module",
+ "scripts": {
+  "build": "node build.mjs",
+  "preview": "npx --yes serve dist -l 4173",
+  "check": "node scripts/gate.mjs"
+ }
+}

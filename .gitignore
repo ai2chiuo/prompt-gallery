@@ -1,0 +1,16 @@
+dist/
+node_modules/
+__pycache__/
+*.pyc
+*.pkl
+# private review/classification material - never publish
+classification.csv
+classify.py
+finalize.py
+sheets.py
+sheets/
+shots/
+*.xlsx
+*.zip
+uploads/
+.env
