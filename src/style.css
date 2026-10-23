@@ -8,13 +8,13 @@ input{flex:1;min-width:180px}
 main{max-width:1400px;margin:auto;padding:16px}
 .wall{columns:5 240px;column-gap:12px}
 .card{break-inside:avoid;margin:0 0 12px;background:var(--card);border-radius:10px;overflow:hidden;display:block;color:var(--fg);text-decoration:none}
-.card img{width:100%;display:block;background:#222}.card .t{padding:8px 10px;font-size:13px}.card .m{color:var(--mute);font-size:12px}
+.card img{width:100%;height:auto;display:block;background:#222}.card .t{padding:8px 10px;font-size:13px}.card .m{color:var(--mute);font-size:12px}
 .badge{display:inline-block;background:#2a2d38;border-radius:6px;padding:1px 6px;font-size:11px;margin-right:4px}
 .vid{background:#b8365a}
 #more{display:block;margin:16px auto;padding:10px 24px;background:var(--card);color:var(--fg);border:1px solid #333;border-radius:8px}
 .ad{border:1px dashed #333;color:var(--mute);text-align:center;padding:20px;margin:12px 0;font-size:12px}
 .detail{display:grid;grid-template-columns:minmax(0,3fr) minmax(0,2fr);gap:24px}
-.detail img{width:100%;border-radius:10px}
+.detail img{width:100%;height:auto;border-radius:10px}
 pre{white-space:pre-wrap;background:var(--card);padding:14px;border-radius:10px;font:14px/1.6 ui-monospace,monospace}
 button.copy{background:var(--acc);color:#000;border:0;border-radius:8px;padding:8px 16px;font-weight:600;cursor:pointer}
 .tags a{margin-right:6px;font-size:13px}

@@ -12,6 +12,12 @@ Only ids listed in `content/safe-ids.txt` (the allowlist of entries reviewed as 
 4. `npm run check && node build.mjs`, preview with `cd dist && python3 -m http.server 4173`.
 (`scripts/import_csv.py` is the old generic importer — it does not check the allowlist; don't use it for real data.)
 
+## Owner admin mode (delete marks)
+Owner-only helper to mark entries for deletion. The site is static, so this is **not a security boundary** — admin mode never changes the site; it only stores "pending delete" marks in the browser's localStorage and exports a text list. Real deletion happens offline.
+- **Key:** not in this repo. `build.mjs` reads it from env `ADMIN_KEY` or the gitignored file `.admin-key` (>= 24 chars), and writes only its SHA-256 into `dist/admin.js`. No key -> admin mode is disabled. Generate one: `python3 -c "import secrets;print(secrets.token_urlsafe(24))" > .admin-key`.
+- **Use:** open `https://<site>/?admin=<key>` once (the browser is then remembered; the key is stripped from the URL). Cards and detail pages get a 刪除 button (toggle; marked cards are dimmed with a red 待刪除 mark). A floating bar shows the count with 匯出刪除清單 (downloads `delete-list.txt`, one id per line, and copies it), 清除標記, and 離開管理 (`?admin=off` also logs out). Visitors without the key see nothing.
+- **Apply:** `python3 scripts/apply_deletes.py delete-list.txt` (`--dry-run` to preview) removes the ids from `content/prompts.json` and `content/safe-ids.txt`, deletes their images and thumbs from `public/`, then runs the content gate (exit 1 if it fails). Then `node build.mjs` and redeploy.
+
 ## Config
 `site.config.json`: siteName, siteUrl (used by canonical/OG/sitemap — set to real domain), description, adsenseClient (ca-pub-xxx; empty = no script). Ad slots are marked placeholders in build.mjs (`adSlot`).
 
