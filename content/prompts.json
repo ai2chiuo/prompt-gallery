@@ -83,69 +83,6 @@
   "created": "2026-10-23"
  },
  {
-  "id": "229",
-  "title": "4:5直式奇幻電影感角色肖像，成年女性角色「璃夜」，月城最後的守…",
-  "prompt": "4:5直式奇幻電影感角色肖像，成年女性角色「璃夜」，月城最後的守望者。嚴格沿用參考圖中的臉型、五官比例、冷靜疏離眼神、黑色長髮、額前金色新月飾品與藍色寶石；沿用深午夜藍高領長裙、金色雕花肩甲與暗金金屬細節。腰部以上近景，璃夜微微側身、平靜注視鏡頭，右手托著緩慢旋轉的微型藍色月輪，冷藍光映照臉頰與指尖；背景為朦朧月城尖塔、夜霧與巨大藍色月環。冷藍月光主光、銀藍輪廓光、克制暗金高光。cinematic fantasy realism, high-end editorial portrait, realistic skin texture, 85mm portrait lens, cold blue rim light, volumetric moonlight, atmospheric haze, shallow depth of field, film still quality. Avoid anime, cartoon, text, watermark, game UI, cheap cosplay, plastic skin, overexposure, face drift, bad anatomy, missing limbs, extra limbs, deformed hands, extra fingers, missing fingers, fused fingers, broken fingers, distorted joints, unnatural body proportions.",
-  "images": [
-   "5ffd7637bd6a4e22a01bc2c524359d3c.jpg"
-  ],
-  "type": "image",
-  "model": "",
-  "collection": "角色設定",
-  "tags": [
-   "facebook",
-   "fantasy",
-   "portrait",
-   "Liye",
-   "moon-city"
-  ],
-  "source_handle": "",
-  "source_url": "",
-  "created": "2026-10-23"
- },
- {
-  "id": "232",
-  "title": "Ultra-wide Facebook cover for 幻境…",
-  "prompt": "Ultra-wide Facebook cover for 幻境人物誌 AI Visual Stories, matching the same fictional adult East Asian fantasy heroine and costume: heroine on the right third, midnight-indigo celestial landscape, cyan crescent portal, distant fantasy architecture, restrained antique-gold stars, calm negative space on the left, mobile crop-safe, no text, no watermark, advertiser-safe.",
-  "images": [
-   "fb79afb9691c464fb6110cdd473ec20c.jpg"
-  ],
-  "type": "image",
-  "model": "",
-  "collection": "場景與電影感",
-  "tags": [
-   "Facebook",
-   "AI人物",
-   "奇幻",
-   "封面",
-   "安全尺度"
-  ],
-  "source_handle": "",
-  "source_url": "",
-  "created": "2026-10-23"
- },
- {
-  "id": "233",
-  "title": "Premium square Facebook profile …",
-  "prompt": "Premium square Facebook profile portrait for 幻境人物誌 AI Visual Stories: one fictional adult East Asian fantasy heroine, age 25+, centered close-up, midnight-indigo high-neck couture and antique-gold shoulder armor, cyan crescent halo, cinematic fantasy realism, circular crop-safe, no text, no watermark, advertiser-safe.",
-  "images": [
-   "cca3072e4162489aaa684f24e17b235a.jpg"
-  ],
-  "type": "image",
-  "model": "",
-  "collection": "場景與電影感",
-  "tags": [
-   "Facebook",
-   "AI人物",
-   "奇幻",
-   "大頭貼",
-   "安全尺度"
-  ],
-  "source_handle": "",
-  "source_url": "",
-  "created": "2026-10-23"
- },
- {
   "id": "235",
   "title": "Vertical 3:4 photorealistic fash…",
   "prompt": "Vertical 3:4 photorealistic fashion documentary image. A rain-soaked city crosswalk at blue hour is unzipped by an adult East Asian woman in a fully opaque scarlet tailored pantsuit. An enormous brass zipper splits the wet asphalt into two heavy flaps and reveals a brilliant sunlit tropical ocean beneath the street. Strong scarlet versus turquoise contrast, realistic rain reflections, direct flash, full body, instantly readable surreal event, no text, no logos, no watermark.",
@@ -161,61 +98,6 @@
    "reality-zipper",
    "surreal-fashion"
   ],
-  "source_handle": "",
-  "source_url": "",
-  "created": "2026-10-23"
- },
- {
-  "id": "239",
-  "title": "2位原創日本成年美女真人COSPLAY，2人都170公分，2人必…",
-  "prompt": "2位原創日本成年美女真人COSPLAY，2人都170公分，2人必須是不同人物，直髮，具有明顯不同的臉型、五官、髮型、服裝細節、配飾、姿勢與職業設定，禁止重複臉、禁止2胞胎感、禁止同一人物分身， 自然的表情跟自然的視線，素肌の上に大きめのオーバーオール，庭院，畫面以大膽的構圖、動態姿勢和角度展現，全身照，9:16，禁止背面，禁止擺拍",
-  "images": [
-   "ebb5052c41c14dcba67e3963823271b6.jpg"
-  ],
-  "type": "image",
-  "model": "",
-  "collection": "COSPLAY",
-  "tags": [
-   "服裝",
-   "人像",
-   "背帶褲"
-  ],
-  "source_handle": "",
-  "source_url": "",
-  "created": "2026-10-23"
- },
- {
-  "id": "251",
-  "title": "Original adult anime woman, near…",
-  "prompt": "Original adult anime woman, near-black cel shading, midnight indigo hair, subtle violet and cobalt rim light, opaque black futuristic garment, two separated electric-blue dry-brush paint splashes, transparent background, 4K indexed PNG optical reveal for dark social media interfaces.",
-  "images": [
-   "b62ac98ca79f4c4daacf1447d6acb776.jpg"
-  ],
-  "type": "image",
-  "model": "",
-  "collection": "插畫與海報",
-  "tags": [
-   "anime",
-   "dark-neon",
-   "blue-paint",
-   "transparent",
-   "4K"
-  ],
-  "source_handle": "",
-  "source_url": "",
-  "created": "2026-10-23"
- },
- {
-  "id": "257",
-  "title": "Original adult female anime char…",
-  "prompt": "Original adult female anime character in extreme low-key cel shading, near-black navy palette, silver-white shag hair with cobalt tips, violet rim lighting, electric-blue dry-brush paint on an opaque black futuristic garment, black background, no text.",
-  "images": [
-   "806a71d2be1243ca9f28ef5d76d5f311.jpg"
-  ],
-  "type": "image",
-  "model": "",
-  "collection": "插畫與海報",
-  "tags": [],
   "source_handle": "",
   "source_url": "",
   "created": "2026-10-23"
@@ -824,24 +706,6 @@
   "tags": [
    "服裝",
    "換裝"
-  ],
-  "source_handle": "",
-  "source_url": "",
-  "created": "2026-10-23"
- },
- {
-  "id": "772",
-  "title": "長圖資訊海報：靈網大陸",
-  "prompt": "苹果设计师思维，顶级海报大师思维，用高桥流思路\n呈现海报设计\n输入一段或多段长文本\n智能理解文本内容，不必逐字照搬\n自动分析用户理解流程，按认知逻辑梳理信息\n提炼文本的核心价值、关键知识点、中心思想和亮点观点\n按照人脑阅读和理解顺序呈现信息，让用户自然 get 核心内容\n压缩长文本为可在30-45秒内快速理解的精华内容\n文字在手机端默认显示状态下清晰可读，字体大小、行距、层次合理\n用超大字或重点标注突出核心信息，避免冗长或晦涩表达\n智能判定配色逻辑、排版结构和信息层次，保证视觉呼吸感\n打平用户理解成本，让信息简单明了，一眼就抓住重点\n消除理解障碍，确保读者读完海报后能快速掌握中心思想\n不要额外添加无关文字\n保持海报抓人、直击人心的表现力\n\n如下代码块中是，本次要处理的原始文字\n```\n\n```\n\n本次额外要求：\n长图\n韩系插画\n\n美学表现，通透",
-  "images": [
-   "a1145a944e524c11adc658f2e995c7f7.png"
-  ],
-  "type": "image",
-  "model": "",
-  "collection": "其他",
-  "tags": [
-   "小說",
-   "智能理解文本内容"
   ],
   "source_handle": "",
   "source_url": "",
